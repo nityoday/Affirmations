@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+        <string name="affirmation1">Miles to go before I sleep.</string>
+        <string name="affirmation2">The best time to plant a tree was 20 years ago. The next best time is now.</string>
+        <string name="affirmation3">Actions have consequences.</string>
+        <string name="affirmation4">When you are backed against the wall, break the goddamn thing down.</string>
+        <string name="affirmation5">Do not raise your voice. Improve your argument.</string>
+        <string name="affirmation6">What are your choices if someone puts a gun to your head? You take the gun, you pull out a bigger one, or you call their bluff, or you do any one of a 146 other things.</string>
+        <string name="affirmation7">No one puts their children in a boat, unless the water if safer than the land.</string>
+        <string name="affirmation8">When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I did not understand the assignment, and I told them they did not understand life.</string>
+        <string name="affirmation9">The bad news is time flies. The good news is you are the pilot.</string>
+        <string name="affirmation10">It does not matter what you say, what you believe. It only matters what you do.</string>
+</resources>
