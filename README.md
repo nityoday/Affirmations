@@ -1,0 +1,2 @@
+# Affirmations
+Affirmations Android Application
